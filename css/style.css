@@ -183,7 +183,7 @@ a{
     gap: 2px;
   }  
   .contacts__container{
-    width: 200px;
+    width: 140px;
     right: 10px;
     bottom: 10px;
   }     
@@ -197,7 +197,7 @@ a{
     padding-bottom: 10px;
   }  
 }
-@media (max-width: 540px) {
+@media (max-width: 630px) {
   .text__container {    
     padding: 5px;
   }
@@ -211,10 +211,7 @@ a{
   .btn {
     padding: 2px 6px;
     
-  }   
-  .contacts__container{
-    width: 160px;
-  }  
+  }      
   .contact__title{
     font-size: 18px;
     padding-top: 0px;
@@ -224,12 +221,11 @@ a{
 @media (max-width: 360px) {    
   .title{    
     font-size: 16px;
-  }    
+  }       
   .contact__title{
     font-size: 16px;
   }   
 }
-
 
 
 
